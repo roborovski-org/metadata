@@ -1,2 +1,4 @@
-# metadata
-- [ROBOROVSKI METADATA](https://roborovski-org.github.io/metadata/).
+## ROBOROVSKI METADATA
+
+- [contract.json](./contract.json)
+- [notrevealed.json](./notrevealed.json)
