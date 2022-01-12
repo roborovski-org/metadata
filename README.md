@@ -1,2 +1,2 @@
 # metadata
-- [ROBOROVSKI METADATA](https://roborovski-org.github.io/metadata/).
+- [ROBOROVSKI METADATA](https://roborovskinft.github.io/metadata/).
