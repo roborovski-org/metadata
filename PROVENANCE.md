@@ -10,7 +10,7 @@ RNCT Contract Address: [](https://etherscan.io/token/)
 
 ROBOROVSKI Registry Address: [](https://etherscan.io/address/)
 
-Final Proof Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Final Proof Hash: 0000000000000000000000000000000000000000000000000000000000000000
 
 Arweave Permaweb URIs: [List of Arweave URIs]()
 
